@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CandidateExercises",
+            "request": "launch",
+            "mainClass": "org.shl.selenium.va.utils.CandidateExercises",
+            "projectName": "selenium"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GetToken",
+            "request": "launch",
+            "mainClass": "org.shl.selenium.va.utils.GetToken",
+            "projectName": "selenium"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ResetExercise",
+            "request": "launch",
+            "mainClass": "org.shl.selenium.va.utils.ResetExercise",
+            "projectName": "selenium"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SessionHandling",
+            "request": "launch",
+            "mainClass": "org.shl.selenium.va.pages.startpage.SessionHandling",
+            "projectName": "selenium"
+        }
+    ]
+}
